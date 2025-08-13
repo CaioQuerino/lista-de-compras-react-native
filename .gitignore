@@ -7,8 +7,6 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
-Storage
-
 # Native
 .kotlin/
 *.orig.*
